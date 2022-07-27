@@ -1,0 +1,2 @@
+Adding some text to hello world.txt, then I will save and stage it. 
+Then, type "git status" to see if it's in the staging area.
